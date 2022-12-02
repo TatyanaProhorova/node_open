@@ -1,0 +1,1 @@
+// declare module '@tatyanaprohorova/uni_library';

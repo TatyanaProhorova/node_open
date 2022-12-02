@@ -1,0 +1,23 @@
+{
+  "name": "node_open",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TatyanaProhorova/node_open.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TatyanaProhorova/node_open/issues"
+  },
+  "homepage": "https://github.com/TatyanaProhorova/node_open#readme",
+  "dependencies": {
+    "@tatyanaprohorova/uni_library": "^1.0.3"
+  }
+}
